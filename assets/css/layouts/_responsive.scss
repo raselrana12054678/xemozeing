@@ -1,0 +1,159 @@
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1200px) and (max-width: 1600px) {
+
+}
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1200px) {
+    .row {
+        flex-wrap: wrap;
+    }
+    .header-area .header-top .menu-area ul li a {
+        margin-right: 30px;
+    }
+
+    
+    .banner-area .It-solution h1 {
+    font-size: 45px;
+    line-height: 56px;
+    font-weight: 700;
+    font-family: "Mulish", sans-serif;
+    color: #FFFFFF;
+    font-style: none;
+    margin-right: 442px;
+    letter-spacing: -0.005em;
+    padding-bottom: 15px;
+    padding-right: 13%;
+    }
+    .banner-area .It-solution p {
+        font-size: 16px;
+        font-weight: 600;
+        font-family: "Mulish", sans-serif;
+        line-height: 24px;
+        color: #FFFFFF;
+        margin-right: 479px;
+        letter-spacing: -0.005em;
+        padding-bottom: 30px;
+        padding-right: 13%;
+    }
+    .Trusted-Services .trusted-area1 {
+        width: 245px;
+    }
+
+    //**section our-company start here**//
+    .our-company .our-items h2 {
+        font-family: "Mulish", sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 50px;
+        letter-spacing: -0.5px;
+        color: #0F1A54;
+        padding-bottom: 10px;
+    }
+    .our-company .our-items p {
+        padding-bottom: 25px;
+        margin-right: 53px;
+    }
+
+    //**section we-provide start here**//
+    .we-provide .provide-items h2 {
+        font-size: 46px;
+        line-height: 55px;
+    }
+    .we-provide .development-area {
+        padding: 40px 19px;
+    }
+    .we-provide .development-area h3 {
+        font-size: 19px;
+    }
+
+    //**section skill-area start here**//
+    .skill-area .our-skills h2 {
+        font-size: 40px;
+        line-height: 54px;
+        padding: 15px 0;
+    }
+
+    //**section team-area start here**//
+    .team-area .team-item h2 {
+        margin-bottom: 60px;
+        padding: 0 26%;
+    }
+    .team-area .img-area h4 {
+        font-size: 19px;
+    }
+    .team-area .img-area .title {
+        margin-left: 10px;
+    }
+    .team-area .img-area .title .icon i {
+        margin-left: 7px;
+    }
+    .team-area .img-area .title .icon {
+        margin-left: 12px;
+    }
+
+    .team-area .img-area .title .icon a i {
+        margin-left: 3px;
+        color: #0F1A54;
+        font-size: 14px;
+    }
+
+    //**section price-area start here**//
+    .price-area .price-item h2 {
+        font-size: 40px;
+    }
+    .price-area .price-item p {
+        padding: 0 246px;
+        padding-bottom: 50px;
+    }
+    ol, ul {
+        padding-left: 0rem;
+    }
+
+    //**section testimonials start here**//
+    .testimonials .clients-top {
+        padding: 20px; 
+    }
+    .carousel-item h2 {
+        font-size: 34px;
+        line-height: 47px;
+        padding: 10px 0;
+    }
+    .carousel-item p {
+        padding-bottom: 9px;
+    }
+    .testimonials .clients-top p  {
+        font-size: 15px;
+    }
+
+    //**section Blog-Post start here **//
+    .Blog-Post .blog-item p {
+        padding: 0 277px;
+    }
+    .Blog-Post .metting-items .catagories .cta-item .items-2 a {
+        margin-left: 12px;
+    }
+    .Blog-Post .metting-items .catagories {
+        margin-left: 16px;
+    }
+
+    //section footer-area start here  //
+    .footer-area .items {
+        padding-top: 60px
+    }
+
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 320px) and (max-width: 576px) { 
+}
